@@ -48,7 +48,6 @@ Developed by:Ezhilarasi N Register Number:24901074
 
 ![Screenshot (42)](https://github.com/user-attachments/assets/39639f3d-2209-4624-9f95-0197eb3bad01)
 
-
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/2d6f8158-2567-4cf7-b4a0-ead868b4a0c4)
